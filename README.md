@@ -1,1 +1,1 @@
-# jeju-journey
+# Jeju-trip
